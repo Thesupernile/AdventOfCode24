@@ -1,1 +1,1 @@
-# AdventOfCode24CMAKE
+# AdventOfCode24
