@@ -242,7 +242,8 @@ long long Part2() {
 
 int main()
 {
-    std::cout << Part2() << "\n";
+    std::cout << "The sum of the scores of the trailheads on the map is: " << Part1() << "\n";
+    std::cout << "The sum of the ratings of the trailheads on the map is: " << Part2() << "\n";
 }
 
 

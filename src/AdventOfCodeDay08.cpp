@@ -151,7 +151,7 @@ bool IsPrevouslyChecked(int i, int j, std::string prevouslyCheckedFrequencies) {
     return true;
 }
 
-int Part1() {
+int Part2() {
     int value = 0;
 
     std::string mapStrip;
@@ -215,8 +215,7 @@ int Part1() {
 
 int main()
 {
-    int value = Part1();
-    std::cout << value;
+    std::cout << "The number of antinodes on the map is: " << Part2() << "\n";
 }
 
 

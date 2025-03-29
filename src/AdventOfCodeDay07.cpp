@@ -1013,8 +1013,9 @@ long long Part2() {
 }
 
 int main() {
-    long long value = Part2();
-    std::cout << value;
+
+    std::cout << "The calibration result with two operators is: " << Part1() << "\n";
+    std::cout << "The calibration result with three operators is: " << Part2() << "\n";
     
     return 0;
 }

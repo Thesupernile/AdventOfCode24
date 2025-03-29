@@ -1535,8 +1535,8 @@ int Part2() {
 
 int main() {
 
-	int totalValue = Part2();
-	cout << totalValue;
+	cout << "The sum of the middle page numbers from the correctly ordered updates is: " << Part1() << "\n";
+	cout << "The sum of the initially unordered updates' middle page once ordered is: " << Part2() << "\n";
 
 	return 0;
 }
