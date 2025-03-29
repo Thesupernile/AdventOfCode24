@@ -1,0 +1,24 @@
+cmake_minimum_required(VERSION "3.3.0")
+
+
+project("AdventOfCodeDay04")
+file(COPY ${CMAKE_CURRENT_SOURCE_DIR}/docs/data/day4test.txt DESTINATION ${CMAKE_CURRENT_BINARY_DIR})
+add_executable("AdventOfCodeDay04" "src/AdventOfCodeDay04.cpp")  
+
+project("AdventOfCodeDay05")
+add_executable("AdventOfCodeDay05" "src/AdventOfCodeDay05.cpp")  
+
+project("AdventOfCodeDay06")
+add_executable("AdventOfCodeDay06" "src/AdventOfCodeDay06.cpp")  
+
+project("AdventOfCodeDay07")
+add_executable("AdventOfCodeDay07" "src/AdventOfCodeDay07.cpp")    
+
+project("AdventOfCodeDay08")
+add_executable("AdventOfCodeDay08" "src/AdventOfCodeDay08.cpp")  
+
+project("AdventOfCodeDay09")
+add_executable("AdventOfCodeDay09" "src/AdventOfCodeDay09.cpp")   
+
+project("AdventOfCodeDay10")
+add_executable("AdventOfCodeDay10" "src/AdventOfCodeDay10.cpp")   
