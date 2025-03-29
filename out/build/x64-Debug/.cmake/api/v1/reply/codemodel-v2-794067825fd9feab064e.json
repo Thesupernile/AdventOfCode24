@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AdventOfCodeDay10",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AdventOfCodeDay04::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AdventOfCodeDay04-Debug-4ec46715177ea0dd66db.json",
+					"name" : "AdventOfCodeDay04",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AdventOfCodeDay05::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AdventOfCodeDay05-Debug-83cc27c47748342663dd.json",
+					"name" : "AdventOfCodeDay05",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AdventOfCodeDay06::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AdventOfCodeDay06-Debug-e464fd796bbe57a1e909.json",
+					"name" : "AdventOfCodeDay06",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AdventOfCodeDay07::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AdventOfCodeDay07-Debug-5713c2327423a642b36d.json",
+					"name" : "AdventOfCodeDay07",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AdventOfCodeDay08::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AdventOfCodeDay08-Debug-7fde6e09a174b6a7f33e.json",
+					"name" : "AdventOfCodeDay08",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AdventOfCodeDay09::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AdventOfCodeDay09-Debug-3d58a0c3bc2fb73fd905.json",
+					"name" : "AdventOfCodeDay09",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AdventOfCodeDay10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AdventOfCodeDay10-Debug-c7e5e4144a4657eff47c.json",
+					"name" : "AdventOfCodeDay10",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Programming/AdventOfCode24CMAKE/out/build/x64-Debug",
+		"source" : "C:/Programming/AdventOfCode24CMAKE"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

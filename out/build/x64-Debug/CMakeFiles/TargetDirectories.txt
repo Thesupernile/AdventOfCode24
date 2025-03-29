@@ -1,0 +1,9 @@
+C:/Programming/AdventOfCode24CMAKE/out/build/x64-Debug/CMakeFiles/AdventOfCodeDay04.dir
+C:/Programming/AdventOfCode24CMAKE/out/build/x64-Debug/CMakeFiles/AdventOfCodeDay05.dir
+C:/Programming/AdventOfCode24CMAKE/out/build/x64-Debug/CMakeFiles/AdventOfCodeDay06.dir
+C:/Programming/AdventOfCode24CMAKE/out/build/x64-Debug/CMakeFiles/AdventOfCodeDay07.dir
+C:/Programming/AdventOfCode24CMAKE/out/build/x64-Debug/CMakeFiles/AdventOfCodeDay08.dir
+C:/Programming/AdventOfCode24CMAKE/out/build/x64-Debug/CMakeFiles/AdventOfCodeDay09.dir
+C:/Programming/AdventOfCode24CMAKE/out/build/x64-Debug/CMakeFiles/AdventOfCodeDay10.dir
+C:/Programming/AdventOfCode24CMAKE/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Programming/AdventOfCode24CMAKE/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

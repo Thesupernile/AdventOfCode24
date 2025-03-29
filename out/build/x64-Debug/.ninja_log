@@ -1,0 +1,17 @@
+# ninja log v6
+6	282	7649564654062862	CMakeFiles/AdventOfCodeDay05.dir/src/AdventOfCodeDay05.cpp.obj	901fce388b9b6f2a
+304	508	7649565216178346	AdventOfCodeDay07.exe	8288020d9be59a78
+284	491	7649564656842358	AdventOfCodeDay05.exe	f5522bbb181d5302
+320	539	7649565052530041	AdventOfCodeDay04.exe	252cd89284456fc3
+33	334	7649565343665664	CMakeFiles/AdventOfCodeDay08.dir/src/AdventOfCodeDay08.cpp.obj	c901b88d51345c16
+6	319	7649565049397656	CMakeFiles/AdventOfCodeDay04.dir/src/AdventOfCodeDay04.cpp.obj	39cbc8c73257fbb2
+7	303	7649565213206988	CMakeFiles/AdventOfCodeDay07.dir/src/AdventOfCodeDay07.cpp.obj	287a82e502dbdfe9
+335	550	7649565346675134	AdventOfCodeDay08.exe	35c52057a7f2cbf5
+36	319	7649565397007646	CMakeFiles/AdventOfCodeDay09.dir/src/AdventOfCodeDay09.cpp.obj	c3ad32e1de3f8418
+319	534	7649565399835252	AdventOfCodeDay09.exe	f3b96f9cf8eb0a67
+32	347	7649565596995978	CMakeFiles/AdventOfCodeDay10.dir/src/AdventOfCodeDay10.cpp.obj	292244b01faa71f8
+348	557	7649565600152736	AdventOfCodeDay10.exe	3c07a91778d6ef32
+7	880	7649567618369917	CMakeFiles/AdventOfCodeDay06.dir/src/AdventOfCodeDay06.cpp.obj	6241d00edae90dbd
+881	1096	7649567627108117	AdventOfCodeDay06.exe	5f514a5152595a03
+42	910	7649568422787695	CMakeFiles/AdventOfCodeDay06.dir/src/AdventOfCodeDay06.cpp.obj	6241d00edae90dbd
+911	1030	7649568431473219	AdventOfCodeDay06.exe	5f514a5152595a03
