@@ -9,7 +9,7 @@ Some solutions may take a short period of time to complete their calculation of 
 My goal through this challenge was to get a good start in using C++ programming and develop my skills for more challenging projects in the future.
 
 # Example
-Take day 6 as an example challenge. The program input is a map (stored as a series of strings) and the challenge is to determine how many distinct positions are visited by a guard (shown by the ^ on the map) will vist before he leaves the map entirely. Part two asks you to determine how many places on the map there are where you could place an obsticle to force the guard into an infinate loop.
+Take day 6 as an example challenge. The program input is a map (stored as a series of strings) and the challenge is to determine how many distinct positions are visited by a guard (shown by the ^ on the map) will visit before he leaves the map entirely. Part two asks you to determine how many places on the map there are where you could place an obsticle to force the guard into an infinate loop.
 
 The output for this challenge would look like:
 ![image](https://github.com/user-attachments/assets/be35704f-730d-49df-a55d-787a74fa3670)
